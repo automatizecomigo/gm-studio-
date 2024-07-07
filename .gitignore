@@ -2,7 +2,7 @@
 addopts =
     --browser chromium
     --headed
-    --base-url https://www.google.com.br
+    --base-url https://127.0.01:8080/
     --slowmo 1000
     --video on
     --p no:warnings
